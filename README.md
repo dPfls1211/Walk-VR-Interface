@@ -7,7 +7,8 @@
 사용자의 걷기, 뛰기, 절름걸이 그리고 좀비 움직임을 몰입감있게 표현하기 위한 VR 인터페이스 제안
 <br>진행기간 2021/10/18 - 2022/01/11
 
-<br><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
+
+<br><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 
 <aside>
